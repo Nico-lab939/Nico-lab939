@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Nico 👋
 
 ###  💻 Desarrollador Full Stack | Abogado | LawTech Enthusiast
 
