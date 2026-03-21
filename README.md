@@ -8,7 +8,7 @@ Actualmente cursando la **Diplomatura en Programación Full Stack (UNTREF)**.
 
 ---
 
-### 🚀 Mi Perfil "LawTech"
+### 🚀 Mi Perfil 
 
 Lo que aporto al desarrollo de software desde mi experiencia legal:
 - **Lógica Estructurada:** Capacidad crítica para el diseño de algoritmos y flujos de trabajo complejos.
