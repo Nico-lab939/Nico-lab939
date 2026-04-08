@@ -2,7 +2,7 @@
 
 ###  💻 Desarrollador Full Stack | Abogado | LawTech Enthusiast
 
-Soy un profesional en transición desde el mundo del Derecho hacia la Ingeniería de Software. Mi objetivo es fusionar la lógica jurídica con la potencia del código para construir soluciones tecnológicas que transformen el sector legal y la gestión pública.
+Estudié Derecho pero actualmente estoy incursionando  hacia el desarrollo web fullstack y software. 
 
 Actualmente cursando la **Diplomatura en Programación Full Stack (UNTREF)**.
 
@@ -39,8 +39,7 @@ Lo que aporto al desarrollo de software desde mi experiencia legal:
 
 ### 🎯 Mis Objetivos
 
-Busco integrarme a empresas del sector IT, con especial interés en proyectos de **innovación tecnológica y LawTech**, donde pueda aplicar mi visión técnica y legal para optimizar procesos y crear herramientas disruptivas.
+Busco integrarme a empresas del sector IT, de desarrollo web fullstack o software. Aunque tambien estoy abierto a otros tipos de trabajos remotos. 
 
 
 
-> *"He decidido dejar de ejercer la abogacía tradicional para enfocarme en crear las herramientas digitales que el futuro del derecho necesita."*
