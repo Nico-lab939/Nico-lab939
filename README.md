@@ -1,6 +1,6 @@
 # ¡Hola! Soy Nico 👋
 
-###  💻 Desarrollador Full Stack | Abogado | LawTech Enthusiast
+###  💻 Desarrollador Full Stack | Abogado | Tech Enthusiast
 
 Estudié Derecho pero actualmente estoy incursionando  hacia el desarrollo web fullstack y software. 
 
