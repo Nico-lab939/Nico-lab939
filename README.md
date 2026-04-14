@@ -10,7 +10,7 @@ Actualmente cursando la **Diplomatura en Programación Full Stack (UNTREF)**.
 
 ### 🚀 Mi Perfil 
 
-Lo que aporto al desarrollo de software desde mi experiencia legal:
+Lo que puedo llegar a aportar dentro del mundo del desarrollo tecnológico:
 - **Lógica Estructurada:** Capacidad crítica para el diseño de algoritmos y flujos de trabajo complejos.
 - **Compliance & Regulación:** Entendimiento nativo de normativas, privacidad de datos y ética digital.
 - **Resolución de Conflictos:** Experiencia en mediación y gestión aplicada al trabajo en equipo y resolución de problemas técnicos.
